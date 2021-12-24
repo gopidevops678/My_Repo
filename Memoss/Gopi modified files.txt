@@ -1,0 +1,107 @@
+1-1 :-
+====
+Reg .(. missing)
+Engineering spelling incorrect
+Colleage name (Engg)Incorrect
+Serial number (littile bit up)
+Examination(little bit up)
+SGPA (littile bit down)
+
+
+1-2:-
+=====
+
+
+
+Reg .(. missing)
+Engineering spelling incorrect
+Colleage name(in the place of Institue)
+
+2-1:-
+===
+CP^(^symbol space is required)
+Reg.(.missing)
+Engineering spelling incorrect
+Serial number and examination branch and name (littile bit up)
+Courese registerd and appreaded paased (littile bit up)
+
+
+2-2:-
+=====
+Reg.(.missing)
+Engineering spelling incorrect.
+
+Course registered and appread paased (littile bit up)
+3-1:-
+====
+Reg(.)(.Missing)
+Engineering spelling incorrect
+Tranportation enginnering(Lab is missing)
+
+
+3-2 :-
+====
+Reg(.)(.Missing)
+Engineering spelling incorrect
+
+
+4-1:-
+===
+R1641011->Environmental ENINEERING-II(correct spelling)
+R1641012->Water resources(S is missing)
+CP^(^symbol space is required)
+Reg.(.missing)
+Engineering spelling incorrect
+
+
+4-2:-
+====
+Reg.(.missing)
+Engineering spelling incorrect.
+
+Course registerd and appreared and passed (little bit up).
+
+CMM:-
+====
+
+1-2:-
+====
+Enginerring Drwaing(ENGG spelling)
+
+2-1:-
+====
+Probability & statistics(and should be)
+STRENGTH(G is missing)
+Buliding materials & Construct.(Construction should be)
+Basic Eleec(electrical)
+STRENGTH of material lab(G is missing)
+Suvering(Survey should)
+2-2:-
+======
+STRENGTH material-II(G is missing)
+surveying (survey should be)
+CP ^missing
+3-1:-
+======
+Design & Drawing (space is there)
+Design and Draw of Reinforced Concer.SRUCT(STRUC. should be)
+Transportation engineering -II(T is missing)
+Tranportation Enginnering lab(t is missing)
+
+3-2:-
+=====
+Environmetal Engineering -I(N is missing)
+
+4-1:-
+====
+Environmental Engineering-II(N is missing and ENINEERING spelling correct).
+Water Resources(s is missing).
+Remote sensing and gis applications(APP is correct).
+
+4-2:-
+====
+ESTIMATING(ESTIMATION should be)
+
+
+Number of credits registered for: 180 (littile bit down)
+CGPA Secured -------------------->7.70 (littile bit down)
